@@ -1,5 +1,5 @@
 # Prevendo a Ocorrência de Diabetes
-Definindo o Business Problem, necessitamos prever se uma pessoa irá desenvolver diabetes, então vou utilizar Dados Históricos e Machine Learning para realizar essa verificação.
+Necessitamos prever se uma pessoa irá desenvolver diabetes, então foi utilizado Dados Históricos e Machine Learning para realizar essa verificação.
 
 # Requisitos
 <li>Python 3.5</li>
