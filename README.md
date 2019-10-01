@@ -1,4 +1,4 @@
-# Prevendo_diabetes
+# Prevendo a Ocorrência de Diabetes
 Definindo o Business Problem, necessitamos prever se uma pessoa irá desenvolver diabetes, então vou utilizar Dados Históricos e Machine Learning para realizar essa verificação.
 
 # Requisitos
